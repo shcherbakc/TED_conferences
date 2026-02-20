@@ -67,5 +67,7 @@
 - **СУБД:** PostgreSQL
 
 ---
+<img width="1833" height="851" alt="image" src="https://github.com/user-attachments/assets/76ec7e18-1bab-44ec-a923-01bfdbd8f1bb" />
+<img width="1819" height="883" alt="image" src="https://github.com/user-attachments/assets/cf759240-6fc0-4a30-a73e-7fd2ce7749d4" />
 
 *Дата проведения анализа: Февраль 2026*
